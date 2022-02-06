@@ -13,3 +13,5 @@ The issue has been resolved, CoinMarketCap.com said in a statement. Coinbase, th
 Technical glitches have long plagued the cryptocurrency world, with many exchanges often having trouble processing transactions during period of high trading activity. The feature of anonymity that has been a selling point since the development of cryptocurrencies has also made it difficult to resolve hacks and thefts.
 
 “We haven’t found any evidence yet to suggest that today’s glitch was caused by an external party," CoinMarketCap.com said in a statement, as many on Twitter speculated that the site was hacked. 
+
+Disclaimer: This is just a sample document
