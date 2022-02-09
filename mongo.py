@@ -9,7 +9,7 @@
 # from bson.objectid import ObjectId
 # from elasticsearch import Elasticsearch
 
-# st = "mongodb+srv://rachit:rachit@cluster0.hvszm.mongodb.net/test"
+# st = "***[Place Holder for MongoDB Connection Link]"***
 # connect = pymongo.MongoClient(st,ssl=True,ssl_cert_reqs=ssl.CERT_NONE)
 
 # db = connect['pdt']
